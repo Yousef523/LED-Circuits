@@ -14,10 +14,21 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ```
-cd existing_repo
+
 git remote add origin https://gitlab.uwe.ac.uk/y5-ali/digital-design.git
-git branch -M main
-git push -uf origin main
+
+# LED Circuit 
+The circuit built is simple it consists of:
+-  A bread board 
+- A single LED 
+- 330  Ω Resistor 
+- A coin cell battery 
+- Some solid core wires 
+
+
+
+
+
 ```
 
 ## Integrate with your tools
