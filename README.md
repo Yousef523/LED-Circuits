@@ -20,11 +20,13 @@ git remote add origin https://gitlab.uwe.ac.uk/y5-ali/digital-design.git
 # LED Circuit 
 The circuit built is simple it consists of:
 -  A bread board 
-- A single LED 
-- 330  Ω Resistor 
+- LED Lights 
+- 330  Ω Resistors
 - A coin cell battery 
 - Some solid core wires 
+- Raspberry Pi Board 
 
+ 
 
 
 
