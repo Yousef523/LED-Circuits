@@ -17,16 +17,23 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 git remote add origin https://gitlab.uwe.ac.uk/y5-ali/digital-design.git
 
-# LED Circuit 
-The circuit built is simple it consists of:
--  A bread board 
-- LED Lights 
-- 330  Ω Resistors
-- A coin cell battery 
-- Some solid core wires 
-- Raspberry Pi Board 
+<h1 align="center">LED Circuit</h1>
 
-#The codes function 
+
+##The circuit built is simple it consists of:  
+
+-  A bread board 
+-  LED Lights 
+-  330  Ω Resistors
+-  10K Ω Resistors
+-  A coin cell battery 
+-  Some solid core wires 
+-  Raspberry Pi Board 
+-  Micro USB cable 
+-  A couple of buttons
+
+##The codes function 
+
 All the tasks were simple up untill task 4 where it got really challenging.
 
 The program enables the buttons to turn on the LED lights in different modes.
