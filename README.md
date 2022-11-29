@@ -26,6 +26,18 @@ The circuit built is simple it consists of:
 - Some solid core wires 
 - Raspberry Pi Board 
 
+#The codes function 
+All the tasks were simple up untill task 4 where it got really challenging.
+
+The program enables the buttons to turn on the LED lights in different modes.
+
+if Button 1 was pressed once the LED sequence G -> Y -> R should occur 
+
+if Button 1 was pressed twice it would change the direction of the sequence, for example :
+
+button 1 was  pressed while the sequence was on the Yellow LED the Green LED would light back on.
+
+if Button 2 was pressed the LED sequence R -> Y -> G
  
 
 
