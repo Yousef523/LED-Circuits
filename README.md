@@ -1,7 +1,5 @@
 
 
-git remote add origin https://gitlab.uwe.ac.uk/y5-ali/digital-design.git
-
 <h1 align="center"> LED Circuit </h1>
 
 
@@ -17,25 +15,48 @@ git remote add origin https://gitlab.uwe.ac.uk/y5-ali/digital-design.git
 -  Micro USB cable 
 -  A couple of buttons
 
-# *Codes function (Task 1-4)*
+# *(Task 1)*
 
-All the tasks were simple up untill task 4 where it got really challenging.
+We were required to use a bread board some wires and a resistor to power a RED LED, which was done as you can see below.
 
-The program enables the buttons to turn on the LED lights in different modes.
+![Task1](./Images/LEDcircuitTask1.png)
+
+
+# *(Task 2)*
+
+Task 2 was slightly more complicated since we were asked to use the raspberri pi as the power source for the circuit. 
+
+![Task2](./Images/LEDcircuitTask2.png)
+
+
+# *(Task 3)*
+
+Continued building off the circuit from task 2, two more LED lights were added and a resistor along which each LED.
+
+
+![Task3](./Images/LEDcircuitTask3.png)
+
+ 
+ # *(Task 4)*
+ 
+2 buttons were added onto the bread board they did:
 
 if Button 1 was pressed once the LED sequence G -> Y -> R should occur 
 
 if Button 1 was pressed twice it would change the direction of the sequence, for example :
 
-button 1 was  pressed while the sequence was on the Yellow LED the Green LED would light back on.
+button 1 was pressed while the sequence was on the Yellow LED the Green LED would light back on.
 
 if Button 2 was pressed the LED sequence R -> Y -> G
- 
+
+
+![Task4](./Images/LEDcircuittask4.jpg)
 
 # *Task 5* 
 
 The two Task 5 files are programs that output the correct amount of volts, resistance, serial resistance and current and the code informs you if they passed the test or not.
 
+![Task4](./Images/Task5output.png)
 
 
 
